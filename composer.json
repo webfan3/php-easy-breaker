@@ -21,7 +21,7 @@
         }
     },
     "require": {
-        "php": ">=5.4.0 | >= 7.2",
+        "php": ">=5.4.0 | >=7.2",
         "doctrine/cache": "*",
         "symfony/options-resolver": "5.*",
         "symfony/event-dispatcher": "5.*"
