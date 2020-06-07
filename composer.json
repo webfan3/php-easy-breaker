@@ -23,8 +23,8 @@
     "require": {
         "php": ">=5.4.0 | >= 7.2",
         "doctrine/cache": "*",
-        "symfony/options-resolver": "^5.*",
-        "symfony/event-dispatcher": "^5.*"
+        "symfony/options-resolver": "5.*",
+        "symfony/event-dispatcher": "5.*"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8",
